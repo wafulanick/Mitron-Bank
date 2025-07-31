@@ -8,9 +8,10 @@ The visualization is a culmination of a project that started with data cleaning 
 
 # Is Occupation a determinant of where money is spent?
 
+<img width="860" height="276" alt="image" src="https://github.com/user-attachments/assets/c90cfb2e-6bb1-42ab-8533-cf756d5f54b4" />
+
 No - Occupation is not a determinant of where the money is spent given that regardless of the Occupation, the top three categories where money is spent are Bill, Groceries, and Electronics regardless of the occupation with which the customer is in.
 
-# Recommendation: 
 
 # Is gender a determinant of where money is spent?
 
@@ -20,7 +21,8 @@ YES – Gender determines where the amount is spent. For the females, their top 
 
 NOTE – The all the Males' top 4 priorities eclipse the top category where the females spend their money. 
 
-# Recommendation - 
+
+The areas that the females prioritize seem like an untapped gold mine, and therefore, we recommend exploring these areas. The areas have potential for more revenue generation and hence, venturing more to it can prove productive to the business. For the males, we recommend venturing more to the home products that are geared towards household bills, groceries, electronics, and travel
 
 # Is the city a determinant of where money is spent?
 
@@ -30,7 +32,6 @@ NO – City is not a factor that determines where money is spent.
 
 NOTE- All the top 4 categories where money is spent are similar across all the cities. The categories are Bills, Groceries, Electronics, and Health & Wellness. 
 
-# Recommendation: 
 
 # Is age a determinant of where money is spent?
 
@@ -40,13 +41,14 @@ YES – Age group is a determinant of where money is spent. Here, Age_group 21-2
 
 # Recommendation: 
 
+We recommend focusing on the top products prioritized by each age group to maximize sales
+
 # Is marital status a determinant of where money is spent?
 
 <img width="1021" height="474" alt="image" src="https://github.com/user-attachments/assets/32190779-ab79-4577-8c84-fee123ec6c83" />
 
 YES – Marital status determines where the money is spent. For the married, their top 5 priorities are Bills, Groceries, Electronics, Health & Wellness, and Travel. However, for the singles, the top 4 priorities are Electronics, Bills, Entertainment, Groceries, and Food. The difference in the top priorities show that indeed marriage status is a determinant on where money is spent.
 
-# Recommendation - 
 
 # Where do people spend their money the most?
 
